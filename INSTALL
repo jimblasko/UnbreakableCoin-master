@@ -1,9 +1,9 @@
-Building Bitcoin
+Building Unbreakablecoin
 
-See doc/readme-qt.rst for instructions on building Bitcoin-Qt,
+See doc/readme-qt.rst for instructions on building Unbreakablecoin-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Bitcoin.
+implementation of Unbreakablecoin.
 
-See doc/build-*.txt for instructions on building bitcoind,
+See doc/build-*.txt for instructions on building unbreakablecoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Bitcoin.
+implementation of Unbreakablecoin.
