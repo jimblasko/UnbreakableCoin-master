@@ -15,7 +15,7 @@ out collectively by the network. Unbreakablecoin is also the name of the open so
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Unbreakablecoin client software, see http://www.coingen.io.
+the Unbreakablecoin client software, see http://www.unbreakablecoin.com
 
 License
 -------
@@ -23,7 +23,7 @@ License
 Unbreakablecoin is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
 
-Unbreakablecoin is based on Bitcoin.
+Unbreakablecoin is based on Bitcoin's core with modifications to it's speed and size.
 Its development tracks Bitcoin's, the following information applies to Bitcoin's developemnt.
 Development process
 -------------------
