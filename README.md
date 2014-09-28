@@ -1,9 +1,7 @@
 Unbreakablecoin integration/staging tree
 ================================
 
-http://www.coingen.io
-
-Copyright (c) 2009-2013 Bitcoin Developers
+Copyright (c) 2009-2014 Bitcoin Developers
 
 What is Unbreakablecoin?
 ----------------
