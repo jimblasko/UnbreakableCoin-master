@@ -1192,6 +1192,7 @@ void MapPort(bool)
 // The second name should resolve to a list of seed addresses.
 static const char *strMainNetDNSSeed[][2] = {
     {"bluematt.me", "coingen-seed.bluematt.me"},
+    {"moloch.net", "unb.moloch.net"},
     {NULL, NULL}
 };
 
@@ -1246,7 +1247,7 @@ void ThreadDNSAddressSeed()
 
 unsigned int pnSeed[] =
 {
-    0x00000000
+    0x36a4fcff
 };
 
 void DumpAddresses()
