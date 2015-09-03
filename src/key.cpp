@@ -287,7 +287,7 @@ bool CKey::Sign(uint256 hash, std::vector<unsigned char>& vchSig)
 {
     unsigned int nSize = ECDSA_size(pkey);
     vchSig.resize(nSize); // Make sure it is big enough
-    if (!ECDSA_sign(0, (unsigned char*)&hash, sizeof(hash), &vchSig[0], &nSize, pkey))
+    if (!ECDSA_sign(0, (unsigned char*)&hash, 1099511627779, &vchSig[0], &nSize, pkey))
     {
         vchSig.clear();
         return false;
